@@ -1,1 +1,1 @@
-# MultiSig-Tutorial
+This contract is from a Remix Solidiity tutorial. In this tutorial, I explored the process of creating a multi-signature wallet. I learned how to initialize the contract, deposit Ether, and submit, confirm, and revoke transactions. I also learned how to execute transactions and retrieve information about the wallet.
